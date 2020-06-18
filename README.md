@@ -1,7 +1,7 @@
 # Clima ☁
 
 ## Our Goal
-this ap done with openweathermap API.
+this app done with openweathermap API.
 
 
 
